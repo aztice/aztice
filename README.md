@@ -1,6 +1,6 @@
 ```php
 <?php
-// yup, there was a little bit of situation changing.
+// yup, there was a little bit of situation changed.
 // it seems that i changed my self-introduction (?
 // a new style will be shown.
 // also my lover, PHP.
